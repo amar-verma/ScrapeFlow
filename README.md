@@ -231,4 +231,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - React documentation
 - BeautifulSoup4 documentation
 - Google OAuth implementation guides
-```
+
